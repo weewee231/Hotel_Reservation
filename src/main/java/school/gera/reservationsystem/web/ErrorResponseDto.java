@@ -1,7 +1,5 @@
-package school.gera.reservationsystem;
+package school.gera.reservationsystem.web;
 
-import java.sql.Time;
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 public record ErrorResponseDto(
